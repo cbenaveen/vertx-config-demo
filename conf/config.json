@@ -3,6 +3,7 @@
   "maxTimeout": 1000,
   "maxFailures": 5,
   "maxResetTimeout" : 2000,
-  "period": 1000
+  "period": 1000,
+  "simpleRetry" : 30
 }
 
