@@ -2,6 +2,7 @@
   "maxRetries": 6,
   "maxTimeout": 1000,
   "maxFailures": 5,
-  "maxResetTimeout" : 200
+  "maxResetTimeout" : 2000,
+  "period": 1000
 }
 
