@@ -1,0 +1,7 @@
+{
+  "maxRetries": 2,
+  "maxTimeout": 1000,
+  "maxFailures": 2,
+  "maxResetTimeout" : 2000
+}
+
